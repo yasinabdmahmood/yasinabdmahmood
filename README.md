@@ -11,8 +11,8 @@
 - 👯 I’m looking to collaborate on web projects
 - ⚡ Fun fact: I like watching football and documentaries
 
-<img align="left" width="47%" hight="200px" src="https://github-readme-stats.vercel.app/api?username=yasinabdmahmood&show_icons=true&theme=radical" />
-<img align="right" width="47%" hight="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinabdmahmood&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=yasinabdmahmood&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinabdmahmood&layout=compact" />
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

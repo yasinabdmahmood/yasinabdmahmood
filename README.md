@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m a Full-stack developer
-- 🌱 Open to work
+- 🌱 Open to new opportunities
 - 📫 Reach out to me: [Linkedin](https://www.linkedin.com/in/yaseen-abdalwahid/)
 - 👯 I’m looking to collaborate on web projects
 - ⚡ Fun fact: I like watching football and documentaries
